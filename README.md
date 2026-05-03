@@ -34,6 +34,7 @@ No silent learning.
 
 ```
 offsec-lab/
+├── phase-0-setup/
 ├── phase-a-foundations/
 ├── phase-b-scripting/
 ├── phase-c-web/
