@@ -46,23 +46,13 @@ offsec-lab/
 
 ---
 
-## Progress Tracker
-
-- [x] Lab environment setup (Kali VM + Windows VM)
-- [ ] TryHackMe Pre-Security path complete
-- [ ] Phase A KPIs met
-- [ ] eJPT passed
-- [ ] OSCP passed
-
----
-
 ## Certifications Target
 
-| Cert | Target Date | Status |
-|------|-------------|--------|
-| eJPT | Month 10 | ⏳ |
-| PNPT | Month 17 | ⏳ |
-| OSCP | Month 22 | ⏳ |
+| Cert | Target |
+|------|--------|
+| eJPT | Month 10 |
+| PNPT | Month 17 |
+| OSCP | Month 22 |
 
 ---
 
