@@ -10,7 +10,7 @@
 This repository is my public learning journal — every phase, every script,  
 every writeup documents the path from zero to professional pentester.
 
-Core skills being built across this journey:
+Core skills being built across this journey:  
 Linux · Networking · Web Exploitation · Scripting · Binary Exploitation  
 Cloud Security · Active Directory · Red Teaming · Real-World Application
 
