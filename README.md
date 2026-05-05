@@ -1,4 +1,4 @@
-# 🛡️ offsec-lab
+# ⚔️ offsec-lab
 
 > **Archon.Myth** — Offensive Security Journey | Phase Zero → Hero  
 > 22-Month Roadmap · Starting 2026
