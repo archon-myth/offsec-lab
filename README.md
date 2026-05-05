@@ -7,11 +7,12 @@
 
 ## About
 
-This repository documents my hands-on offensive security learning path —  
-from Linux fundamentals to red teaming and OSCP certification.
+This repository is my public learning journal — every phase, every script,  
+every writeup documents the path from zero to professional pentester.
 
-Every lab session produces a written output: a writeup, a script, or a commit.  
-No silent learning.
+Core skills being built across this journey:
+Linux · Networking · Web Exploitation · Scripting · Binary Exploitation  
+Cloud Security · Active Directory · Red Teaming · Real-World Application
 
 ---
 
