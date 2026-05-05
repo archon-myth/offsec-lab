@@ -29,6 +29,9 @@ Cloud Security · Active Directory · Red Teaming · Real-World Application
 | F | Red Teaming & AD | Month 15–17 | ⏳ Upcoming |
 | G | Professionalization | Month 18–22 | ⏳ Upcoming |
 
+> Phase G and H run concurrently (Month 18–22) —  
+> professionalization alongside full-time internship.
+
 ---
 
 ## Repository Structure
