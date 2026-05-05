@@ -1,7 +1,7 @@
 # 🛡️ offsec-lab
 
-> **Archon.Myth** — Offensive Security Journey | Phase 0 → OSCP  
-> 22-Month MonkMode Roadmap · Starting 2026
+> **Archon.Myth** — Offensive Security Journey | Phase Zero → Hero
+> 22-Month Roadmap · Starting 2026
 
 ---
 
